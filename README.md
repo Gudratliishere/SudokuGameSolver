@@ -1,3 +1,3 @@
 # SudokuGameSolver
 
-Write number of sudoku grid as 9 x 9 array. Put zero instead of hidden numbers.
+Write numbers of sudoku grid as 9 x 9 array. Put zero instead of hidden numbers.
